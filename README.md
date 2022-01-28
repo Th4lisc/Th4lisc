@@ -1,7 +1,7 @@
 ## Oi, eu sou Thalis 😎
 
 
-- 👨‍🎓 Cursando Engenharia Eletrônica an Universidade de Brasília - UnB
+- 👨‍🎓 Cursando Engenharia Eletrônica na Universidade de Brasília - UnB
 - 🌱 Estou aprendendo orientação a objetos e análise de dados
 - 📫 Entre em contato via email: thaliscezar@gmail.com
 - 💼 Entre em contato via linkedin: https://www.linkedin.com/in/thalisianzer/
