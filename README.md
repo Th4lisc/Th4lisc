@@ -1,4 +1,4 @@
-## Oi, eu sou Thalis 😎
+## Olá, eu sou Thalis 😎
 
 
 - 👨‍🎓 Cursando Engenharia Eletrônica na Universidade de Brasília - UnB
